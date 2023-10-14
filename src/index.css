@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url( ''https://fonts.googleapis.com/css?family=Rubik Distressed':400,500,700,900&cache=clear'); */
+
+
+body {
+    background-color: black;
+    font-family: Rubik,'Rubik Distressed', Verdana, Geneva, Tahoma, sans-serif;
+}
