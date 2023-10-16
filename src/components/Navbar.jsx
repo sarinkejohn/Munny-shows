@@ -14,7 +14,7 @@ function Navbar() {
     }
   };
   return (
-    <div className="flex justify-between w-full items-center z-[100] absolute p-4">
+    <div className="flex  justify-between w-full items-center z-[100] fixed p-4 shadow-xl rounded-md">
       <Link to="/">
         <img
           className="cursor-pointer object-cover h-[30px] w-[130px]  md:h-[60px] md:w-[160px]  "
